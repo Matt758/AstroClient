@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AstroClient:jar">
+    <output-path>$USER_HOME$/Pictures/cctest/ccdefault</output-path>
+    <root id="archive" name="AstroClient.jar">
+      <element id="module-output" name="AstroClient" />
+    </root>
+  </artifact>
+</component>
